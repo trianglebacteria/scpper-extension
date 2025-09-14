@@ -263,4 +263,3 @@ var scpperDefaultSettings = {
     overrideForum: true,
     linkTooltips: true
 };
-
